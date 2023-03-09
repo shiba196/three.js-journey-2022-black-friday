@@ -21,7 +21,7 @@ export default function Button()
 
     const onClick = () =>
     {
-        window.open('https://threejs-journey.com/join/2022blackfriday', '_blank')
+        window.open('https://github.com/shiba196 👨‍💻', '_blank')
     }
 
     return <group
@@ -54,7 +54,7 @@ export default function Button()
         <Text
             font="./fonts/GreycliffCF-Heavy.woff"
             fontSize={ 1 }
-            text={'2022BLACKFRIDAY'}
+            text={'GITHUB'}
             textAlign="center"
         >
             <meshBasicMaterial color={ [ 1.25, 1.25, 1.25 ] } toneMapped={ false } transparent opacity={ 1 } />
